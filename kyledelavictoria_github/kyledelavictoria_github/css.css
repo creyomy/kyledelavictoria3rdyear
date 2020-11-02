@@ -1,0 +1,81 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+body {
+  background-color: black;
+  font:1.5em Trebuchet MS;
+  word-spacing:3px;
+  margin:0;
+  color: #00ff00;
+  font-family: Verdana;
+ margin:0px 5% 15 150px;
+       background:url(EzezP1u.png)bottom right no-repeat;
+       padding:20px
+}
+* {
+  margin:0;
+  padding:0;
+}
+#Sidebar {
+      width:250px;
+      height: 870px;
+      float:left;
+      padding:50px 20px 22px 180px
+     
+}
+#Sidebar p {
+      font-size:0.9em;
+}
+#Sidebar a{
+      color:#ccc;
+      border:none;
+}
+#Sidebar a:hover{
+      text-decoration:underline;
+      color:#eee; 
+      border:none;
+}
+#Sidebar h1{
+      color:#ff71ce;
+      font-size: 2.3em;
+}
+#Sidebar a{
+      color:#ff71ce;
+      text-decoration:none;
+      padding:0;
+}
+
+#Sidebar h1 a:hover {
+    	text-decoration:none;
+}
+
+ol#nav {
+	margin:25px 15px 25px 30px;
+	font-size:1.3em;
+}
+ol li {
+	margin:15px 0 15px 0 ;
+	margin:10px 0;
+}
+
+#Cont a:hover{
+      text-decoration:underline;
+      color:#eee; 
+      border:none;
+}
+
+ a{
+      color:#ff71ce;
+      text-decoration:none;
+      border:none;
+      padding:0;
+}
+ a:hover{
+      border:none;
+      background:none;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
